@@ -19,4 +19,7 @@
     <!-- SkyzenOS version -->
     <string name="skyzen_version">SkyzenOS version</string>
 
+    <!-- SkyzenOS maintainer -->
+    <string name="skyzen_maintainer">Who\'s master chef?</string>
+
 </resources>
